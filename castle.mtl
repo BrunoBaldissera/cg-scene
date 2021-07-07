@@ -20,7 +20,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd model-house/sky_texture.jpg
+map_Kd model-house/wood-texture.jpeg
 
 newmtl horse_cornea
 Ns 225.000000
