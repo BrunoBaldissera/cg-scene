@@ -1,4 +1,4 @@
-# Blender MTL File: 'medieval-cauldron.blend'
+# Blender MTL File: 'full_scene.blend'
 # Material Count: 1
 
 newmtl RustedMetal
@@ -10,4 +10,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd Texture\\RustedMetal.png
+map_Kd ironcauldron.jpg
